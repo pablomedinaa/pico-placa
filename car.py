@@ -3,6 +3,9 @@
 Created on Fri Jul 27 16:26:15 2018
 
 @author: Pablo Medina Aizaga
+
+This class allow a user to determinate when a vehicle is able to be in the road
+
 """
 
 class Car:
